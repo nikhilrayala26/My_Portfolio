@@ -1,2 +1,2 @@
-# My_Portfolio
-myPortfolio
+# PORTFOLIO
+Trinadh Rayala Portfolio
